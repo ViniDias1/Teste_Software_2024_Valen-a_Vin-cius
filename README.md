@@ -1,5 +1,6 @@
 # Teste_Software_2024_Valenca_Vinicius
 
+- Drive com os vídeos das atividades: https://drive.google.com/drive/folders/1ijMoIfNXkV-wsAMP5IqiI6qkwREDe9am?usp=sharing
 
 ## Unidade 1 - Atividade 1
 
