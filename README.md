@@ -188,4 +188,9 @@ O código fornece uma série de testes unitários para a classe `Funcionario`, u
 - Foram adicionados alguns testes no conjunto de testes já existentes, aumentando a detecção dos mutantes de 22 para 34.
 - #### Conclusão
   - Com a utlização do mutmut repetidamente é possível reduzir drasticamente a quantidade de vulnerabilidade nos testes envolvidos no problema em questão.
+
+- Mutações com o código original![alt text](image.png)
+
+- Mutações com testes adicionados ![alt text](image-1.png)
+
 ---
